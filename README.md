@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌘 About Me:
 I'm currently in the Instutite "ITSI"<br>Actually I am studying a technology in software development<br>I belong to the community "Panitas Developers Community" (PDC)<br>I like to program<br>I like the music :p<br>
 
 
@@ -11,9 +11,6 @@ I'm currently in the Instutite "ITSI"<br>Actually I am studying a technology in 
 ![](https://github-readme-stats.vercel.app/api?username=chefsitotakero&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chefsitotakero&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chefsitotakero&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chefsitotakero&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
