@@ -1,4 +1,4 @@
-# 🌘 About Me:
+# ✨ About Me:
 I'm currently in the Instutite "ITSI"<br>Actually I am studying a technology in software development<br>I belong to the community "Panitas Developers Community" (PDC)<br>I like to program<br>I like the music :p<br>
 
 
